@@ -3,4 +3,4 @@
 
 ## [How to Minimize the Tracking](minimize_tracking.md)
 
-## [How to Minimize the Tracking](what_google_knows.md)
+## [What Google Really Knows About You](what_google_knows.md)
