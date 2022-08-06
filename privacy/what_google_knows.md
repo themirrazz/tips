@@ -62,3 +62,8 @@ If that's not creepy enough, Google owns Android, meaning they don't have to fol
 ## Spy Cam
 
 Google bought Nest, which is famous for it's Smart Thermostat. But Nest also makes doorbells, and security cameras (battery-powered and wired!). This means Google can do what they please and sell off security footage of your house, and even inside your house! Make sure to close the bathroom door all the way!
+
+## Sneaky Little H4CK3R
+
+Google also has your passwords, at least if you use Chrome. Even if you don't save your password, Chrome still knows what it is.
+The only thing we can do is hope Google doesn't obtain it.
