@@ -50,3 +50,15 @@ Wherever you put it in, Google now has your credit card number. The scary thing 
 In fact, lots of stores are removing the need to sign your signature.
 
 Easily put, Google can now use YOUR money, and this is dangerous. Especially since they sell your data off to every company.
+
+## Google Tracks You - Physically
+
+Google tracks your location, even if you block it's website or app from using this. It does this via your IP address, service provider, connected Wi-Fi network, in-range cellular towers, and more - even when you tell it not to!
+
+It tells where your device is the most - determining where you live, work, hang out, go to school, or go to church at! It can even tell that you go to Target, Walmart, and Fred Meyer every Saturday, and headed to your friend's house last Thursday.
+
+If that's not creepy enough, Google owns Android, meaning they don't have to follow the allow/deny system apps are forced to follow. Meaning if you have an Android phone, Google can track you *everywhere*. And because some phones use GPS rather than cellular pings to determine your location, this means Google can track you when you're in Airplane Mode - or when you're actually on an airplane!
+
+## Spy Cam
+
+Google bought Nest, which is famous for it's Smart Thermostat. But Nest also makes doorbells, and security cameras (battery-powered and wired!). This means Google can do what they please and sell off security footage of your house, and even inside your house! Make sure to close the bathroom door all the way!
