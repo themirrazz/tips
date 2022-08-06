@@ -1,2 +1,2 @@
 # Privacy Tips
-[Back to homepage](../..)
+[Back to homepage](../../..)
